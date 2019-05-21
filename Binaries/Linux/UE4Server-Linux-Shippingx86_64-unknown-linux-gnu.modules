@@ -1,0 +1,8 @@
+{
+	"Changelist" : 3525109,
+	"BuildId" : "409fe07a-3afb-4783-aa7d-6d989845a9f8",
+	"Modules" : 
+	{
+		"UTSQLiteFix" : "libUE4Server-UTSQLiteFix-Linux-Shipping.so"
+	}
+}

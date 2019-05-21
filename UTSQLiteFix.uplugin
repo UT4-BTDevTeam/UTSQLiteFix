@@ -1,0 +1,23 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "UTSQLiteFix",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Chatouille",
+	"CreatedByURL" : "",
+	"EngineVersion" : "4.15.0",
+	"Description" : "UTSQLiteFix",
+	"Category" : "UnrealTournament.Mutator",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "UTSQLiteFix",
+			"Type" : "Runtime",
+			"WhitelistPlatforms" : [ "Win32", "Win64", "Linux" ]
+		}
+	]
+}

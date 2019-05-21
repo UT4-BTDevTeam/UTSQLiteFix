@@ -1,0 +1,8 @@
+{
+	"Changelist" : 3525109,
+	"BuildId" : "ec9bd67f-a646-44f8-9c86-dfbcae438a15",
+	"Modules" : 
+	{
+		"UTSQLiteFix" : "UE4Server-UTSQLiteFix-Win64-Shipping.dll"
+	}
+}
