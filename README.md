@@ -1,4 +1,5 @@
 # UTSQLiteFix
+Attempts to fix UT4 SQLite issues, adds error handling to database commands, and UTF8 support.
 
 ## Installing
 
